@@ -74,4 +74,4 @@ O modelo revelou que as variáveis que mais influenciam na aprovação do crédi
 
 1. Clone este repositório:
 ```bash
-git clone [https://github.com/mm-dantas/credit-score-predictor](https://github.com/mm-dantas/credit-score-predictor)
+git clone https://github.com/mm-dantas/credit-score-predictor.git
